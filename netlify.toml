@@ -1,0 +1,6 @@
+
+[[redirects]]
+  from = "/*"
+  to = "https://pan.uuul.net/:splat"
+  status = 200
+
