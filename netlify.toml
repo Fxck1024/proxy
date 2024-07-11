@@ -1,6 +1,0 @@
-
-[[redirects]]
-  from = "/*"
-  to = "https://arksec.net/:splat"
-  status = 200
-
