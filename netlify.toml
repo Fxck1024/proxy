@@ -1,0 +1,6 @@
+
+[[redirects]]
+  from = "/*"
+  to = "https://niceo.de/:splat"
+  status = 200
+
